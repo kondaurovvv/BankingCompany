@@ -1,0 +1,40 @@
+@import "./variables.css";
+@import "./normalize.css";
+
+
+
+@media (min-width: 0px) {
+  body {
+    background-color: blue;
+  }
+}
+
+@media (min-width: 576px) {
+  body {
+    background-color: blueviolet;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    background-color: navajowhite;
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    background-color: magenta;
+  }
+}
+
+@media (min-width: 1200px) {
+  body {
+    background-color: olivedrab;
+  }
+}
+
+@media (min-width: 1400px) {
+  body {
+    background-color: orange;
+  }
+}
