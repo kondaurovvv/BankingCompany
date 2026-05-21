@@ -1,0 +1,35 @@
+@import './fonts.css';
+
+body {
+  background-color: red;
+}
+
+.p1 {
+  font-family: 'Lexend', system-ui, sans-serif;
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.p2 {
+  font-family: 'Lexend', system-ui, sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.p3 {
+  font-family: 'Lexend', system-ui, sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.p4 {
+  font-family: 'Lexend', system-ui, sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.p5 {
+  font-family: 'Lexend', system-ui, sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+}

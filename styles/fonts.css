@@ -1,0 +1,44 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../assets/fonts/lexend-latin-300.woff2') format('woff2'),
+    url('../assets/fonts/lexend-latin-300.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/lexend-latin-regular.woff2') format('woff2'),
+    url('../assets/fonts/lexend-latin-regular.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../assets/fonts/lexend-latin-500.woff2') format('woff2'),
+    url('../assets/fonts/lexend-latin-500.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../assets/fonts/lexend-latin-600.woff2') format('woff2'),
+    url('../assets/fonts/lexend-latin-600.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../assets/fonts/lexend-latin-700.woff2') format('woff2'),
+    url('../assets/fonts/lexend-latin-700.woff') format('woff');
+}
